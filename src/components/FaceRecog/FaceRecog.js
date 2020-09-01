@@ -2,7 +2,6 @@ import React from 'react';
 import './FaceRecog.css'
 
 const FaceRecog = ({box, imageUrl}) => {
-    console.log(box)
     return (
         <div className='center ma'>
             <div className='absolute mt2'>
